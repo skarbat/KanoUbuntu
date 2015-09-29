@@ -59,7 +59,7 @@ if __name__ == '__main__':
 
     # Xsysroot profile name that holds the original UbuntuOS for the RPI
     # (See the file xsysroot.conf for details)
-    xsysroot_profile_name='kubuntu15'
+    xsysroot_profile_name='kanoubuntu'
 
     # --dry-run will not install any software, but expand the image
     if len(sys.argv) > 1:
